@@ -1,0 +1,4 @@
+create-react-app redux-react-basic
+npm install -g create-react-app
+npm install --save redux react-redux
+npm start
